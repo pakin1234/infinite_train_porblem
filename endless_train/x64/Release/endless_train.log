@@ -1,0 +1,6 @@
+﻿cl : командная строка  warning D9025: переопределение "/sdl" на "/GS-"
+  endless_train.cpp
+C:\data structures\endless_train\endless_train\endless_train.cpp(38,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Создание кода
+  Создание кода завершено
+  endless_train.vcxproj -> C:\data structures\endless_train\x64\Release\endless_train.exe
